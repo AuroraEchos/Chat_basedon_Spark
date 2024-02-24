@@ -1,0 +1,15 @@
+websocket
+base64
+datetime
+hashlib
+hmac
+json
+urllib.parse
+ssl
+time
+wsgiref.handlers
+tkinter
+ttkbootstrap
+subprocess
+os
+re
